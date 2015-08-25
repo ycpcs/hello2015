@@ -1,0 +1,7 @@
+baseurl: "http://ycpcs.github.io/hello2015"
+markdown: rdiscount
+highlighter: pygments
+coursename: "Welcome!"
+
+rdiscount:
+  extensions: [smart]
